@@ -26,3 +26,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+      
+      - name: Send email on commit
+        if: steps.commit.outputs.has_changes == 'true'
+        run: |
+          echo "Nuovo commit automatico effettuato" | mail -s "GitHub Action: Commit effettuato" lorenzo.rossi@unicam.it
