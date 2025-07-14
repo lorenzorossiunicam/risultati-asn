@@ -2,8 +2,14 @@
 
 # Risultati IV Quadrimestre ASN 2023
 
-Usciti 169 settori su 190.
+Usciti 175 settori su 190.
 
+- 14/07/2025: 09/H1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/1/4), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FH1/2/4))
+- 14/07/2025: 09/E3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/1/4), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FE3/2/4))
+- 14/07/2025: 09/D1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/1/4), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/2/4))
+- 14/07/2025: 08/A3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA3/1/4), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA3/2/4))
+- 14/07/2025: 06/M1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/1/4), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM1/2/4))
+- 14/07/2025: 06/D6 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/1/4), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FD6/2/4))
 - 14/07/2025: 12/D2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/4), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/4))
 - 11/07/2025: 08/C1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FC1/1/4), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FC1/2/4))
 - 11/07/2025: 08/B1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB1/1/4), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB1/2/4))
