@@ -87,6 +87,6 @@ foreach($settori as $settore) {
 echo "\n$usciti_nuovi nuovi settori pubblicati.\n";
 echo "Usciti $usciti settori su " . count($settori) . ".\n";
 $new_found = "Usciti " . $usciti . " settori su " . count($settori) . ".\n\n" . $new_found;
-$new_found = "# Risultati III Quadrimestre ASN 2023\n\n" . $new_found;
+$new_found = "# Risultati VI Quadrimestre ASN 2023\n\n" . $new_found;
 $new_found = "![logo](img/logo-2023.png)\n\n" . $new_found;
 file_put_contents("README.md", $new_found . $cache);
