@@ -21,7 +21,7 @@ $settori = array(
 	'14/C2', '14/C3', '14/D1'
 );
 
-$quadrimestre = '5';
+$quadrimestre = '6';
 
 
 function get_page($url)
