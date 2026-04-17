@@ -84,20 +84,20 @@ foreach($settori as $settore) {
 	usleep(500000);
 }
 
-$msg = "funziona";
-$topic = "asn_lr";
-
-$options = [
-	'http' => [
-		'method'  => 'POST',
-		'header'  => "Content-Type: text/plain\r\n" .
-					 "Title: Nuovi settori\r\n",
-		'content' => $msg
-	]
-];
-
-$context  = stream_context_create($options);
-file_get_contents("https://ntfy.sh/$topic", false, $context);
+if($usciti_nuovi > 0){
+	
+	$options = [
+		'http' => [
+			'method' => 'POST',
+			'header' => "Content-Type: text/plain\r\n" .
+						 "Title: Nuovi settori\r\n",
+			'content' => $new_found
+		]
+	];
+	
+	$context  = stream_context_create($options);
+	file_get_contents("https://ntfy.sh/asn_lr", false, $context);
+}
 
 echo "\n$usciti_nuovi nuovi settori pubblicati.\n";
 echo "Usciti $usciti settori su " . count($settori) . ".\n";
