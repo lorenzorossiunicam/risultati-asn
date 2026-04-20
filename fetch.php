@@ -90,7 +90,8 @@ if($usciti_nuovi > 0){
 		'http' => [
 			'method' => 'POST',
 			'header' => "Content-Type: text/plain\r\n" .
-						 "Title: Nuovi settori\r\n",
+						"Title: Nuovi settori\r\n".
+                     	"Priority: high\r\n",
 			'content' => $new_found
 		]
 	];
