@@ -2,8 +2,15 @@
 
 # Risultati VI Quadrimestre ASN 2023
 
-Usciti 14 settori su 190.
+Usciti 21 settori su 190.
 
+- 04/06/2026: 13/A2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA2/2/6))
+- 04/06/2026: 07/I1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FI1/2/6))
+- 04/06/2026: 07/H2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH2/2/6))
+- 04/06/2026: 06/B1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FB1/2/6))
+- 04/06/2026: 05/C1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FC1/2/6))
+- 04/06/2026: 04/A2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/04%252FA2/2/6))
+- 04/06/2026: 02/B2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB2/2/6))
 - 26/05/2026: 10/H1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FH1/2/6))
 - 26/05/2026: 07/H5 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH5/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH5/2/6))
 - 26/05/2026: 07/H1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FH1/2/6))
