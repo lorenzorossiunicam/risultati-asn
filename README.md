@@ -2,8 +2,17 @@
 
 # Risultati VI Quadrimestre ASN 2023
 
-Usciti 132 settori su 190.
+Usciti 141 settori su 190.
 
+- 17/06/2026: 09/D3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD3/2/6))
+- 17/06/2026: 09/D2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD2/2/6))
+- 17/06/2026: 09/C2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC2/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC2/2/6))
+- 17/06/2026: 09/C1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FC1/2/6))
+- 17/06/2026: 09/B3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/6))
+- 17/06/2026: 09/A3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA3/2/6))
+- 17/06/2026: 09/A2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA2/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA2/2/6))
+- 17/06/2026: 09/A1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FA1/2/6))
+- 17/06/2026: 07/E1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FE1/2/6))
 - 16/06/2026: 11/C2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC2/2/6))
 - 16/06/2026: 11/C1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/2/6))
 - 16/06/2026: 11/B1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/1/6), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FB1/2/6))
